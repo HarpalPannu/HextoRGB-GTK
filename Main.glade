@@ -84,7 +84,6 @@
             <property name="max_length">3</property>
             <property name="invisible_char">●</property>
             <property name="width_chars">5</property>
-            <property name="text" translatable="yes">256</property>
             <property name="primary_icon_activatable">False</property>
             <property name="secondary_icon_activatable">False</property>
           </object>
@@ -117,7 +116,6 @@
             <property name="max_length">3</property>
             <property name="invisible_char">●</property>
             <property name="width_chars">5</property>
-            <property name="text" translatable="yes">256</property>
             <property name="primary_icon_activatable">False</property>
             <property name="secondary_icon_activatable">False</property>
           </object>
@@ -150,7 +148,6 @@
             <property name="max_length">3</property>
             <property name="invisible_char">●</property>
             <property name="width_chars">5</property>
-            <property name="text" translatable="yes">256</property>
             <property name="primary_icon_activatable">False</property>
             <property name="secondary_icon_activatable">False</property>
           </object>
